@@ -1,5 +1,6 @@
-- Single Responsibility Principle - a simple example
+# Single Responsibility Principle - a simple example
 
-# Execute
-npm run build 
+## Execute
+npm run build
+
 npm run start
